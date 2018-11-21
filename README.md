@@ -1,11 +1,16 @@
 # Swipe-2-Sort-Issues
 
-![Swuoe 2 Sort](/ic_launcher_web.png)
+<img alt="Swipe 2 Sort" src="/ic_launcher_web.png" width="600" height="250">
 
+ <br/>
 
 This repository will allow for users to report issues, I will reference them from the private repository which is currently for the code.
+ <br/>
+ <br/>
 
 Feel free to create issues here for bugs and for suggested improvements.
+ <br/> <br/>
+
 
 If you prefer you may contact me directly:
 
