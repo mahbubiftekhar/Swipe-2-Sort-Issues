@@ -15,7 +15,8 @@ Thanks,
 
 Mahbub Iftekhar
 <p>
-<a href="https://www.mahbubiftekhar.co.uk">https://www.mahbubiftekhar.co.uk</a>
+<a href="https://www.mahbubiftekhar.co.uk">https://www.mahbubiftekhar.co.uk</a> <br/>
+
 Email: <a href="mailto:swipe2sort@iftekhar.co.uk?Subject=Swipe2Sort" target="_top">swipe2sort@iftekhar.co.uk</a>
  <br/>
 
