@@ -12,8 +12,7 @@ Feel free to create issues here for bugs and for suggested improvements.
  <br/> <br/>
 
 
-If you prefer you may contact me directly you are more than welcome to by email or phone:
- <br/> <br/>
+If you prefer, you may contact me direction by either email, phone or by text <br/> <br/>
 
 
 Thanks,
