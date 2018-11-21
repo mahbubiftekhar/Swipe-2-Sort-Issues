@@ -27,7 +27,7 @@ Mahbub Iftekhar
 Email: <a href="mailto:swipe2sort@iftekhar.co.uk?Subject=Swipe2Sort" target="_top">swipe2sort@iftekhar.co.uk</a>
  <br/>
 
-Calls between 7am and 10pm only please. 
+Calls between 7am and 10pm only please. <br/>
 <a href="tel:+7552695272">Mobile +7552695272</a>
 
 
