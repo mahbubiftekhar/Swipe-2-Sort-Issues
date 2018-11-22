@@ -3,7 +3,7 @@
 ![Swuoe 2 Sort](/ic_launcher_web.png)
 
 
-This repository will allow for users to report issues, I will reference them from the private repository which is currently for the code.
+This repository will allow for users to report issues, I will reference the issues from the private repository which is currently for the code.
 
 Feel free to create issues here for bugs and for suggested improvements.
 
