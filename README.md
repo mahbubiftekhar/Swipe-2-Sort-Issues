@@ -4,13 +4,13 @@
 
  <br/>
 
-<<<<<<< HEAD
-This repository will allow for users to report issues, I will reference the issues from the private repository which is currently for the code.
-=======
+<a href="https://play.google.com/store/apps/details?id=miftekhar.swipe2sort">Download the app!</a> <br/>
+
+
+
 This repository will allow for users to report issues, I will reference them from the private repository which is currently for the code.
  <br/>
  <br/>
->>>>>>> e008a07ac9caa2094163e5678a66d1e85551d37d
 
 Feel free to create issues here for bugs and for suggested improvements.
  <br/> <br/>
