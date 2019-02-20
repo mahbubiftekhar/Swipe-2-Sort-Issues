@@ -8,6 +8,10 @@
 
 
 
+PRIVACY POLICY: 
+Swipe-2-Sort does NOT transmit any of your data out of your phone. ALL databases are stored on your device and are not tramsitted. No personal information is collected. 
+
+
 This repository will allow for users to report issues, I will reference them from the private repository which is currently for the code.
  <br/>
  <br/>
